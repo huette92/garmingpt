@@ -1,1 +1,2 @@
 date,steps,resting_hr,sleep_minutes,sleep_hours,avg_stress,body_battery_min,body_battery_max
+aggregate,,,,,,,
